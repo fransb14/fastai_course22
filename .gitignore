@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ./
 
+=======
+bird.jpg
+forest.jpg
+>>>>>>> b2b153a7a58fadaff5878b2d2f01244b01ea9559
 .DS_Store
 *.csv
 *.pkl
